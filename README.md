@@ -1,5 +1,7 @@
 # heading1
 
+**We can create 6 different types of headings**
+
 ## heading2
 
 ### heading3
