@@ -24,7 +24,7 @@
 
 ## 1. Screenshot - Title
 
-![](./_img\Screenshot.png)
+![](./_img/Screenshot.png)
 
 ## 2. Speicherplatz `C:`
 
@@ -40,7 +40,7 @@
 
 ## 5. alle Temp Ordner
 
-![](./_img\Temp-Ordner.png)
+![](./_img/Temp-Ordner.png)
 
 ## 6.1. Grafikkarten-Treiber
 
@@ -58,19 +58,19 @@ NVIDIA GeForce RTX 3050 Ti Laptop GPU
 
 ## 8. Startup Programme
 
-![](./_img\2022-12-01-14-47-29-image.png)
+![](./_img/2022-12-01-14-47-29-image.png)
 
 ## 9. Partitionen
 
-![](./_img\2022-12-01-14-48-47-image.png)
+![](./_img/2022-12-01-14-48-47-image.png)
 
 ## 10. Device und Windows Spezifikationen
 
-![](./_img\2022-12-01-14-45-07-image.png)
+![](./_img/2022-12-01-14-45-07-image.png)
 
 ## 11. Power & Sleep Settings
 
-![](./_img\2022-12-01-14-53-50-image.png)
+![](./_img/2022-12-01-14-53-50-image.png)
 
 ## 12. Task Scheduler
 
