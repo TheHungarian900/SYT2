@@ -24,7 +24,7 @@
 
 ## 1. Screenshot - Title
 
-![](C:\%23repos\2223-2ahit-syt-GyarDa210119\01-win\_img\Screenshot.png)
+![](./_img\Screenshot.png)
 
 ## 2. Speicherplatz `C:`
 
@@ -32,15 +32,15 @@
 
 ## 3. Dateisystem (File System)
 
-![](C:\%23repos\2223-2ahit-syt-GyarDa210119\01-win\_img/2022-12-12-16-41-15-image.png)
+![](./_img/2022-12-12-16-41-15-image.png)
 
 ## 4. Zugriffsrechte
 
-![](C:\%23repos\2223-2ahit-syt-GyarDa210119\01-win\_img/2022-12-02-07-32-46-image.png)
+![](./_img/2022-12-02-07-32-46-image.png)
 
 ## 5. alle Temp Ordner
 
-![](C:\%23repos\2223-2ahit-syt-GyarDa210119\01-win\_img\Temp-Ordner.png)
+![](./_img\Temp-Ordner.png)
 
 ## 6.1. Grafikkarten-Treiber
 
@@ -58,35 +58,35 @@ NVIDIA GeForce RTX 3050 Ti Laptop GPU
 
 ## 8. Startup Programme
 
-![](C:\%23repos\2223-2ahit-syt-GyarDa210119\01-win\_img\2022-12-01-14-47-29-image.png)
+![](./_img\2022-12-01-14-47-29-image.png)
 
 ## 9. Partitionen
 
-![](C:\%23repos\2223-2ahit-syt-GyarDa210119\01-win\_img\2022-12-01-14-48-47-image.png)
+![](./_img\2022-12-01-14-48-47-image.png)
 
 ## 10. Device und Windows Spezifikationen
 
-![](C:\%23repos\2223-2ahit-syt-GyarDa210119\01-win\_img\2022-12-01-14-45-07-image.png)
+![](./_img\2022-12-01-14-45-07-image.png)
 
 ## 11. Power & Sleep Settings
 
-![](C:\%23repos\2223-2ahit-syt-GyarDa210119\01-win\_img\2022-12-01-14-53-50-image.png)
+![](./_img\2022-12-01-14-53-50-image.png)
 
 ## 12. Task Scheduler
 
-![](C:\%23repos\2223-2ahit-syt-GyarDa210119\01-win\_img/2022-12-01-17-55-18-image.png)
+![](./_img/2022-12-01-17-55-18-image.png)
 
 ## 13. Home-Verzeichnis
 
-![](C:\%23repos\2223-2ahit-syt-GyarDa210119\01-win\_img/2022-12-02-07-55-33-image.png)
+![](./_img/2022-12-02-07-55-33-image.png)
 
 ## 14. by winget installed programms
 
-![](C:\%23repos\2223-2ahit-syt-GyarDa210119\01-win\_img/2022-12-12-16-43-10-image.png)
+![](./_img/2022-12-12-16-43-10-image.png)
 
-![](C:\%23repos\2223-2ahit-syt-GyarDa210119\01-win\_img/2022-12-12-16-43-42-image.png)
+![](./_img/2022-12-12-16-43-42-image.png)
 
-![](C:\%23repos\2223-2ahit-syt-GyarDa210119\01-win\_img/2022-12-12-16-44-13-image.png)
+![](./_img/2022-12-12-16-44-13-image.png)
 
 Schreibe alle Tastenkürzel, die dir unter Windows bekannt sind in deinem Dokument auf.
 
