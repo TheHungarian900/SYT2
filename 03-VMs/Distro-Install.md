@@ -22,9 +22,7 @@ Ich habe es nur wegen dem Namen gewählt. Ich fand es lustig und wollte wissen w
 
 **Installationserfahrung:**
 
-
-
-
+Es lief alles gut. Bei einem Punkt musste ich bestätigen, ob ich eine Partition lösche und mit NixOS ersetze. Am Anfang habe ich 30 GB ausgewählt und bei der Partition stand auch 30 GB. Ich hatte trotzdem ein wenig Angst, dass ich etwas auf meiner echten Festplatte (und nicht auf der virtuellen) löschen/ersetzen werde. Habe es trotzdem gemacht und es gab keine Probleme.
 
 ## c)
 
