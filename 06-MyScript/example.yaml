@@ -1,0 +1,7 @@
+header: "This is header"
+data:
+   param1: "Awesome parameter"
+   param2: "will be replaced"
+footer:
+   title: "Footer Title"
+   body: "will be replaced"
